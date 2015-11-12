@@ -1,6 +1,7 @@
-# Enlaces de la Conferencia: [Big Data, Business Analytics y Data Science, ¿Hacia dónde vamos?] (https://prezi.com/fhtorkc8dsdf/data-science-big-data-y-business-analytics/)
+# Enlaces de la Conferencia: Big Data, Business Analytics y Data Science, ¿Hacia dónde vamos? https://prezi.com/fhtorkc8dsdf/data-science-big-data-y-business-analytics/
 
-Los archivos en formato pdf se pueden descargar de: [Dropbox] (https://www.dropbox.com/s/kuuu9zpy9mnaefc/Informes.rar?dl=0)
+Los archivos en formato pdf se pueden descargar de:
+https://www.dropbox.com/s/kuuu9zpy9mnaefc/Informes.rar?dl=0)
 
 Big Data: The Management Revolution
 https://hbr.org/2012/10/big-data-the-management-revolution
@@ -139,9 +140,7 @@ Building a Data Science Team
 http://blog.datacamp.com/data-science-industry-infographic/
 
 
-
-
-OTROS ENLACES DE INTERÉS
+# Otros enlaces de interés
 
 Data Science Bootcamp Programs - Full TIme, Part Time and Online
 http://yet-another-data-blog.blogspot.pe/2014/04/data-science-bootcamp-landscape-full.html
