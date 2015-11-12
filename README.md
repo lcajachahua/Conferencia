@@ -1,4 +1,5 @@
-# Enlaces de la Conferencia: Big Data, Business Analytics y Data Science, ¿Hacia dónde vamos? https://prezi.com/fhtorkc8dsdf/data-science-big-data-y-business-analytics/
+# Enlaces de la Conferencia: Big Data, Business Analytics y Data Science, ¿Hacia dónde vamos?
+https://prezi.com/fhtorkc8dsdf/data-science-big-data-y-business-analytics/
 
 Los archivos en formato pdf se pueden descargar de:
 https://www.dropbox.com/s/kuuu9zpy9mnaefc/Informes.rar?dl=0)
@@ -164,19 +165,34 @@ Visual Intro do Machine Learning
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 IndiGestion
-http://blogs.gestion.pe/innovaciondisrupcion/2015/06/big-data-y-analytics.html (Falcon)
+
+http://blogs.gestion.pe/innovaciondisrupcion/2015/06/big-data-y-analytics.html
+
 http://gestion.pe/tendencias/que-big-data-2097809
+
 http://gestion.pe/tecnologia/empresas-admiten-no-estar-listas-nube-big-data-y-tecnologia-movil-2115974
+
 http://blogs.gestion.pe/carpetagerencial/2015/03/el-big-data-creara-44-millones-de-empleos-en-los-proximos-cinco-anos.html
+
 http://gestion.pe/tecnologia/big-data-analytics-reduciria-millones-perdidas-riesgo-crediticio-sistema-financiero-2145895
+
 http://gestion.pe/tecnologia/cual-esencia-cientifico-datos-encuesta-explora-su-perfil-2145402
+
 http://gestion.pe/tecnologia/big-data-cibercrimen-ataques-seguridad-informatica-2140668
+
 http://gestion.pe/tecnologia/empresas-pueden-obtener-ganancias-hasta-12-buena-estrategia-analisis-datos-2140546
+
 http://gestion.pe/tecnologia/bbva-banca-autopista-big-data-2124784
+
 http://gestion.pe/tendencias/consejos-si-y-no-al-momento-abordar-proyectos-analitica-2139155
+
 http://gestion.pe/tecnologia/cuatro-cada-10-empresas-quiere-saber-que-hacer-data-2134266
-http://blogs.gestion.pe/revoluciondigital/2015/05/futbol-big-data-y-porque-contratar-tres-estadisticos-en-lugar-de-un-jugador-poco-eficiente.html
+
+http://blogs.gestion.pe/revoluciondigital/2015/05/futbol-big-data-y-porque-contratar-tres-estadisticos-en-lugar-de-un-jugador
+-poco-eficiente.html
+
 http://gestion.pe/empleo-management/texto-introductorio-al-impacto-big-data-gestion-personas-2108962
+
 http://gestion.pe/empresas/cuales-pueden-empresas-sacarle-jugo-al-big-data-desafios-retos-aprovechamiento-informacion-clientes-2083797
 
 
