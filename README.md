@@ -165,11 +165,11 @@ Visual Intro do Machine Learning
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 IndiGestion
-http://blogs.gestion.pe/innovaciondisrupcion/2015/06/big-data-y-analytics.html
-http://gestion.pe/tendencias/que-big-data-2097809
-http://gestion.pe/tecnologia/empresas-admiten-no-estar-listas-nube-big-data-y-tecnologia-movil-2115974
-http://blogs.gestion.pe/carpetagerencial/2015/03/el-big-data-creara-44-millones-de-empleos-en-los-proximos-cinco-anos.html
-http://gestion.pe/tecnologia/big-data-analytics-reduciria-millones-perdidas-riesgo-crediticio-sistema-financiero-2145895
+- http://blogs.gestion.pe/innovaciondisrupcion/2015/06/big-data-y-analytics.html
+- http://gestion.pe/tendencias/que-big-data-2097809
+- http://gestion.pe/tecnologia/empresas-admiten-no-estar-listas-nube-big-data-y-tecnologia-movil-2115974
+- http://blogs.gestion.pe/carpetagerencial/2015/03/el-big-data-creara-44-millones-de-empleos-en-los-proximos-cinco-anos.html
+- http://gestion.pe/tecnologia/big-data-analytics-reduciria-millones-perdidas-riesgo-crediticio-sistema-financiero-2145895
 http://gestion.pe/tecnologia/cual-esencia-cientifico-datos-encuesta-explora-su-perfil-2145402
 http://gestion.pe/tecnologia/big-data-cibercrimen-ataques-seguridad-informatica-2140668
 http://gestion.pe/tecnologia/empresas-pueden-obtener-ganancias-hasta-12-buena-estrategia-analisis-datos-2140546
