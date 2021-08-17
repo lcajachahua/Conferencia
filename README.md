@@ -2,9 +2,6 @@
 ## [Prezi](https://prezi.com/fhtorkc8dsdf/data-science-big-data-y-business-analytics/)
 
 
-Los archivos en formato pdf se pueden descargar de:
-- https://www.dropbox.com/s/kuuu9zpy9mnaefc/Informes.rar?dl=0)
-
 Big Data: The Management Revolution
 - https://hbr.org/2012/10/big-data-the-management-revolution
 
